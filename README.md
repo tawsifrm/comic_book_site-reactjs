@@ -1,4 +1,5 @@
-## comic_book_site
+## Comic Book Site made w/ React
+Features landing page, login, and registration.
 
 ## Description
 
